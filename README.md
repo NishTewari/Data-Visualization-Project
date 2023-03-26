@@ -1,6 +1,8 @@
 <h1 align="center">Sports Car Analysis Project</h1>
 
-![Mclaren GIF](https://raw.githubusercontent.com/NishTewari/Data-Visualization-Project/master/mclaren.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NishTewari/NishTewari/master/mclaren.gif" alt="mclaren GIF" style="display:block; margin:auto;">
+</p>
 
 ## Contributors
 
